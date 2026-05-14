@@ -9,7 +9,7 @@ This analysis solves a regional fuel distribution challenge for a state-owned en
 ### Optimization Results
 By implementing the Transportation Model, I designed an optimized distribution network that successfully achieved a minimum total shipping cost of Rp 40,000,000. This route optimization guarantees that demand is met across all regions while maintaining the lowest possible operational expenditure.
 
-![Shipping List Pertamina](pertamina.png)
+![Shipping List Pertamina](assets/pertamina.png)
 
 ---
 
@@ -19,8 +19,8 @@ Managing large-scale infrastructure projects requires precise timing and resourc
 ### Scheduling Results
 Through the Activity-on-Node method and Critical Path Method, I mapped the entire project progression. The analysis finalized a total project duration of 14 weeks and successfully pinpointed the critical activities that must be completed on strict deadlines to prevent overall project delays.
 
-![LRT Project Results](lrt-tabel.png)
-![LRT Network Diagram](lrt-grafik.png)
+![LRT Project Results](assets/lrt-tabel.png)
+![LRT Network Diagram](assets/lrt-grafik.png)
 
 ---
 
